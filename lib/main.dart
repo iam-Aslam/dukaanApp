@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
         }),
         'sixthpage': ((context) {
           return const sixthpage();
-        })
+        }),
       },
     );
   }

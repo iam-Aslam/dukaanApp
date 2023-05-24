@@ -256,37 +256,4 @@ Padding last() {
   );
 }
 
-// @override
-// Widget build(BuildContext context) {
-//   return Scaffold(body: setUserForm());
-// }
 
-// Widget setUserForm() {
-//   return Stack(children: <Widget>[
-//     // Background with gradient
-//     Container(
-//       color: Colors.blue,
-//       height: 200,
-//     ),
-//     //Above card
-//     Card(
-//         elevation: 20.0,
-//         margin: EdgeInsets.only(left: 15.0, right: 15.0, top: 100.0),
-//         child: ListView(
-//             padding: EdgeInsets.only(
-//                 top: 20.0, left: 20.0, right: 18.0, bottom: 5.0),
-//             children: <Widget>[])),
-//     // Positioned to take only AppBar size
-    // Positioned(
-    //   top: 0.0,
-    //   left: 0.0,
-    //   right: 0.0,
-    //   child: AppBar(
-    //     // Add AppBar here only
-    //     backgroundColor: Colors.transparent,
-    //     elevation: 0.0,
-    //     title: Text("Premium Services"),
-    //   ),
-    // ),
-//   ]);
-// }

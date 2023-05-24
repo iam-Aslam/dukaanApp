@@ -40,7 +40,7 @@ class _pageoneState extends State<pageone> {
                         ),
                         getrow2(
                             name: 'WhatsApp Chat Support',
-                            prefixicon: Icons.whatsapp_outlined),
+                            prefixicon: Icons.message_outlined),
                         SizedBox(
                           height: 10,
                         ),
