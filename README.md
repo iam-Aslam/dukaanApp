@@ -1,4 +1,4 @@
-# ui
+# Dukaan Application UI
 
 A new Flutter project.
 
